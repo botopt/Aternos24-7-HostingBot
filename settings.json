@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Redscylar_SMP_s1.aternos.me",
+    "ip": "RedScylar_SMP_s1.aternos.me",
     "port": 42677,
     "version": "",
     "try-creative": false
